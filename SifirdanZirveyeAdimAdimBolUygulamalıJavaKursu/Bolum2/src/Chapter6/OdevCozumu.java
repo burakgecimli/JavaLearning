@@ -9,7 +9,7 @@ public class OdevCozumu {
         Örnek 1200 değeri için 20 dakika 0 saniye yazmalıdır.
          */
 
-        int saniye = 546;
+        int saniye = 5456;
         int saat = saniye / 3600;
         int dakika = (saniye / 60) % 60;
         int kalanSaniye = saniye % 60;
