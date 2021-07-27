@@ -14,7 +14,7 @@ public class OdevCozumleri2 {
 
 
         int randSayi = 10 + (int) (Math.random() * 89); // İki basamaklı sayı üretildi.
-        System.out.println("Sistem tarafından üretilen sayı= " + randSayi);
+      
 
         System.out.println("Sayıyı Tahmin Ediniz");
         Scanner input = new Scanner(System.in); // Kullanıcıdan tahmin sayısı istendi
